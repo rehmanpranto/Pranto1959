@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Pranto1959
-- 👀 I’m interested in trees!
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python projects
-- 📫 DM me
+- 👋 Hi, I’m Pranto
+- 👀 I’m interested in learing new things and travelling new places
+- 🌱 I’m currently learning Git Control
+- 💞️ I’m looking to collaborate on Python projects and Git control
+- 📫 Email for more info : rehmanpranto@gmail.com
 - 😄 Pronouns: p r a n t o
 - ⚡ Fun fact: Your brain is constantly eating itself.
 
